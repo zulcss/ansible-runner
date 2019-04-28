@@ -1,0 +1,8 @@
+Silly demo on how to use ansible-runner on Centos/RHEL
+
+This demo will install epel, and then uninstall it.
+
+1. pip install -r requirements.xt
+2. Modify the demo.py to determine where your ansible private directory is
+   going to be.
+3. Run the demo.py
